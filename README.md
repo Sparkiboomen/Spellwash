@@ -1,20 +1,20 @@
 # Spellwash
 
-**A cozy fantasy top-down shooter** where you play as water mage Shaniira Engrin, cleansing the world from magical pollution with your trusty gnome friend Donvell and his alchemy.
+**Уютный фэнтези-шутер** где вы играете за водную магиссу Шаниру Энгрин, очищающую мир от магического загрязнения вместе с другом-гномом Донвеллом и его алхимией.
 
-## About the Game
-Spellwash is a 2D top-down shooter set in a cozy fantasy world. You take on the role of Shaniira Engrin - a water mage on a mission to purify the world from failed alchemical experiments, black dust in castles, and drought-stricken plants.
+# О игре
+Spellwash - это 2D топдаун-шутер в уютном фэнтези мире. Вы играете за Шаниру Энгрин - водную магиссу, которая очищает мир от неудачных алхимических экспериментов, чёрной пыли в замках и засохших растений.
 
-## Key Features
-- **Cozy fantasy atmosphere** with magical elements
-- **Dynamic water-based combat** system
-- **Character progression** and spell upgrades
-- **Puzzle-solving elements** mixed with action
-- **Unique setting** - cleaning as core gameplay mechanic
+# Основные особенности
+- *Уютная фэнтези-атмосфера** с магическими элементами
+- *Динамичная боевая система** на основе водной магии
+- *Прогрессия персонажа** и улучшение заклинаний
+- *Элементы головоломок** в сочетании с экшеном
+- *Уникальная концепция** - очистка как основная механика
 
-## [Technical Details](https://github.com/Sparkiboomen/Spellwash/blob/main/GDD.md)
-- **Engine**: Unity
-- **Platform**: PC
-- **Genre**: Top-down shooter, Fantasy
+# Технические детали
+- **Движок**: Unity
+- **Платформа**: PC
+- **Жанр**: Топдаун-шутер, Фэнтези
 
-## Project Structure
+# Подробнее о проекте
