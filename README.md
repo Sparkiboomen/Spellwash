@@ -12,7 +12,7 @@ Spellwash is a 2D top-down shooter set in a cozy fantasy world. You take on the 
 - **Puzzle-solving elements** mixed with action
 - **Unique setting** - cleaning as core gameplay mechanic
 
-## [Technical Details]()
+## [Technical Details](https://github.com/Sparkiboomen/Spellwash/blob/main/GDD.md)
 - **Engine**: Unity
 - **Platform**: PC
 - **Genre**: Top-down shooter, Fantasy
