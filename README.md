@@ -1,2 +1,2 @@
 # Spellwash
-«Spellwash» - a cozy fantasy shooter in which you - the great water magician Shaniira Engrin with the help of a friend-gnome Donvell and his everyday alchemy cleanse the world from unsuccessful experiments in the kitchen, black dust in the castles and howling from drought sprouts of corn.
+«Spellwash» — уютный фэнтези шутер, в котором вы - великая волшебница воды Шанайра Энгрин с помощью друга-гнома Донвела и его бытовой алхимии очищаете мир от неудачных экспериментов на кухне, черной пыли в замках и взбесившихся ростков кукурзы.
